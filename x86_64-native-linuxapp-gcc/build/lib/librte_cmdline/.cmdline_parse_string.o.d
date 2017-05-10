@@ -30,4 +30,4 @@ dep_cmdline_parse_string.o = \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_string_fns.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_parse.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_parse_string.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_parse.h
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/cmdline_parse.h

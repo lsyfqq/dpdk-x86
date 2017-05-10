@@ -96,9 +96,9 @@ dep_rte_net.o = /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_net.c \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_byteorder.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/generic/rte_byteorder.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_byteorder_64.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_ether.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_ether.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_random.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_ip.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_ip.h \
  /usr/include/netinet/in.h /usr/include/x86_64-linux-gnu/sys/socket.h \
  /usr/include/x86_64-linux-gnu/sys/uio.h \
  /usr/include/x86_64-linux-gnu/bits/uio.h \
@@ -111,8 +111,8 @@ dep_rte_net.o = /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_net.c \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/socket2.h \
  /usr/include/x86_64-linux-gnu/bits/in.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_tcp.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_udp.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_sctp.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_gre.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_net/rte_net.h
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_tcp.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_udp.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_sctp.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_gre.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_net.h

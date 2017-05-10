@@ -29,7 +29,7 @@ dep_eal_common_tailqs.o = \
  /usr/include/x86_64-linux-gnu/bits/string3.h /usr/include/inttypes.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_memory.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_config.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/linuxapp/eal/include/exec-env/rte_dom0_common.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_dom0_common.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_common.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
@@ -85,5 +85,5 @@ dep_eal_common_tailqs.o = \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/common/eal_private.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_pci.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_interrupts.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/linuxapp/eal/include/exec-env/rte_interrupts.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_interrupts.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_dev.h

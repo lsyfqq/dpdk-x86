@@ -61,5 +61,5 @@ dep_eal_common_dev.o = \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/xmmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/mmintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/mm_malloc.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/linuxapp/eal/include/exec-env/rte_interrupts.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_interrupts.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/common/eal_private.h

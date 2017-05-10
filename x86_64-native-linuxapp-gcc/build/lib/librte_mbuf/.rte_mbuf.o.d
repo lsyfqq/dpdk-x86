@@ -89,10 +89,10 @@ dep_rte_mbuf.o = \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/immintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/fxsrintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/adxintrin.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_mbuf/rte_mbuf.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_mbuf.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_prefetch.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/generic/rte_prefetch.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_mbuf/rte_mbuf_ptype.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_mbuf_ptype.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_string_fns.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_hexdump.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_errno.h

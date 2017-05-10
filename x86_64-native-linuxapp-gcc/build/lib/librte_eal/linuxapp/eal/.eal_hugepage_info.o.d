@@ -58,7 +58,7 @@ dep_eal_hugepage_info.o = \
  /usr/include/x86_64-linux-gnu/sys/queue.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_memory.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_config.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/linuxapp/eal/include/exec-env/rte_dom0_common.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_dom0_common.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_common.h \
  /usr/include/ctype.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h \

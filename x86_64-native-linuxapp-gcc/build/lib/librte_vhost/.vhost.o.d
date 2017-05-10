@@ -122,7 +122,7 @@ dep_vhost.o = /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_vhost/vhost.c \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_dev_info.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_string_fns.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_malloc.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_vhost/rte_virtio_net.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_virtio_net.h \
  /usr/include/x86_64-linux-gnu/sys/eventfd.h \
  /usr/include/x86_64-linux-gnu/bits/eventfd.h \
  /usr/include/x86_64-linux-gnu/sys/socket.h \

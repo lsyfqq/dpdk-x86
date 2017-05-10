@@ -85,12 +85,12 @@ dep_eal_timer.o = \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_config.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_launch.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_memory.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/linuxapp/eal/include/exec-env/rte_dom0_common.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_dom0_common.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_memzone.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/common/eal_private.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_pci.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_interrupts.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/linuxapp/eal/include/exec-env/rte_interrupts.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_interrupts.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_dev.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/common/eal_internal_cfg.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_pci_dev_feature_defs.h

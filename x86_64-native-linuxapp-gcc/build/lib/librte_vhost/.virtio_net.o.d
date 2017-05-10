@@ -123,7 +123,7 @@ dep_virtio_net.o = \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/socket2.h \
  /usr/include/x86_64-linux-gnu/bits/in.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_vhost/rte_virtio_net.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_virtio_net.h \
  /usr/include/linux/vhost.h /usr/include/linux/ioctl.h \
  /usr/include/x86_64-linux-gnu/asm/ioctl.h \
  /usr/include/asm-generic/ioctl.h /usr/include/linux/virtio_ring.h \

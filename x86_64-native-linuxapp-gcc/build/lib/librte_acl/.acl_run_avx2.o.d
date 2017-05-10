@@ -5,8 +5,8 @@ dep_acl_run_avx2.o = \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/acl_run_avx2.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/acl_run_sse.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/acl_run.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/rte_acl.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/rte_acl_osdep.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_acl.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_acl_osdep.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \

@@ -54,6 +54,8 @@
 #include "malloc_elem.h"
 #include "eal_private.h"
 
+//#include "testpmd.h"
+
 static inline const struct rte_memzone *
 memzone_lookup_thread_unsafe(const char *name)
 {
@@ -218,8 +220,11 @@ memzone_reserve_aligned_thread_unsafe(const char *name, size_t len,
 	void *mz_addr = malloc_heap_alloc(&mcfg->malloc_heaps[socket], NULL,
 			requested_len, flags, align, bound);
 
-	if ((mz_addr == NULL) && (socket_id == SOCKET_ID_ANY)) {
+//	if ((mz_addr == NULL) && (socket_id == SOCKET_ID_ANY)) {
+//	if (((!numa_support) && (mz_addr == NULL) && (socket_id == SOCKET_ID_ANY))||((numa_support) && (mz_addr == NULL) && (socket_id != SOCKET_ID_ANY))) {
+	if ((mz_addr == NULL) && (socket_id != SOCKET_ID_ANY)) {
 		/* try other heaps */
+        printf("socket mem alloc failed on it's nodes, so try alloc on other nodes! \n"); 
 		for (i = 0; i < RTE_MAX_NUMA_NODES; i++) {
 			if (socket == i)
 				continue;

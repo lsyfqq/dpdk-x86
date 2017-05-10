@@ -75,7 +75,7 @@ dep_eal_lcore.o = \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_pci.h \
  /usr/include/x86_64-linux-gnu/sys/queue.h /usr/include/inttypes.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_interrupts.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/linuxapp/eal/include/exec-env/rte_interrupts.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_interrupts.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_dev.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/common/eal_filesystem.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_eal/common/eal_internal_cfg.h \

@@ -104,5 +104,5 @@ dep_rte_cuckoo_hash.o = \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_hash/rte_hash.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_hash/rte_cuckoo_hash.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_hash/rte_cmp_x86.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_hash/rte_hash_crc.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_hash_crc.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_hash/rte_cuckoo_hash_x86.h

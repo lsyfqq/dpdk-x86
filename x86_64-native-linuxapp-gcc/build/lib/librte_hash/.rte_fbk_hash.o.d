@@ -85,5 +85,5 @@ dep_rte_fbk_hash.o = \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_cpuflags.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_log.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_hash/rte_fbk_hash.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_hash/rte_hash_crc.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_hash_crc.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_branch_prediction.h

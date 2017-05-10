@@ -100,4 +100,4 @@ dep_rte_lpm.o = /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_lpm/rte_lpm.c \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/adxintrin.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_compat.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_lpm/rte_lpm_sse.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_lpm/rte_lpm.h
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_lpm.h

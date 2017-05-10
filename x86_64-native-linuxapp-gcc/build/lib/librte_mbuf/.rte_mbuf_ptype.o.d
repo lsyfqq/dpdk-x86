@@ -8,7 +8,7 @@ dep_rte_mbuf_ptype.o = \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_mbuf/rte_mbuf.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_mbuf.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_common.h \
  /usr/include/stdlib.h /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
@@ -93,4 +93,4 @@ dep_rte_mbuf_ptype.o = \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/adxintrin.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_prefetch.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/generic/rte_prefetch.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_mbuf/rte_mbuf_ptype.h
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_mbuf_ptype.h

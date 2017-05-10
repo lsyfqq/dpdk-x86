@@ -2,7 +2,7 @@ dep_tb_mem.o = /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/tb_mem.c \
  /usr/include/stdc-predef.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_config.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/tb_mem.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_acl/rte_acl_osdep.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_acl_osdep.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \

@@ -125,6 +125,6 @@ dep_rte_kni.o = /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_kni/rte_kni.c \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_eth_ctrl.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_dev_info.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_malloc.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_kni/rte_kni.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/rte_kni.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/exec-env/rte_kni_common.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_kni/rte_kni_fifo.h

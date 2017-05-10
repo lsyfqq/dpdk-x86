@@ -50,10 +50,10 @@ dep_cmdline_socket.o = \
  /usr/include/x86_64-linux-gnu/sys/ttydefaults.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_parse.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_rdline.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_cirbuf.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_vt100.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/cmdline_cirbuf.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/cmdline_vt100.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_socket.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_parse.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline.h \
- /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline_rdline.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/cmdline_parse.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/cmdline.h \
+ /home/lsyf/dpdk/dpdk-stable-16.11.1/x86_64-native-linuxapp-gcc/include/cmdline_rdline.h \
  /home/lsyf/dpdk/dpdk-stable-16.11.1/lib/librte_cmdline/cmdline.h
